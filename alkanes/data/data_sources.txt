@@ -7,3 +7,7 @@ Reaxys query:
 Wieners data:
 Wiener, H. Structural Determination of Paraffin Boiling Points. Journal of the American
 Chemical Society 1947, 69 (1), 17–20. https://doi.org/10.1021/ja01193a005.
+
+CRC Handbook:
+CRC Handbook of Chemistry and Physics, 95th ed.; Haynes, W. M., Ed.; CRC Press: Boca
+Raton, 2014.
