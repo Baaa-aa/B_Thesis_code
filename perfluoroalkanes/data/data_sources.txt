@@ -1,0 +1,17 @@
+In bp_sources.csv is listed the source for each datapoint in bp_data.csv. The full references are provided here.
+
+Woolf, A. A. Relations between the Boiling Points of Perfluoro-Ethers, Perfluoroalkanes
+and Normal Alkanes. Journal of fluorine chemistry 1993, 63 (1–2), 19–24. https://doi.org/
+10.1016/S0022-1139(00)80393-0.
+
+Dykyj, J.; Svoboda, J.; Wilhoit, R. C.; Frenkel, M.; Hall, K. R. Vapor Pressure and Antoine
+Constants for Hydrocarbons, And S, Se, Te, And Halogen Containing Organic Compounds;
+Springer, 1999.
+
+Anderson, H. H. Boiling Points and Boiling Point Numbers of Perfluoroalkanes and Perfluoroalkenes. Journal of Chemical and Engineering Data 1965, 10 (2), 156–159. https://
+doi.org/10.1021/je60025a026.
+
+Van Der Puy, M. A Boiling Point Estimation Method for Alkanes and Perfluoroalkanes.
+Journal of fluorine chemistry 1993, 63 (1–2), 165–172. https://doi.org/10.1016/S0022-1139
+(00)80407-8.
+
