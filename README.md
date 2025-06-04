@@ -37,7 +37,7 @@ All data required for running the analyses is included within the respective `da
   conda activate <env-name>
 ## Citation
 If you use this code or data, please cite the following work:
-`
+```
 @thesis{curdova2025topological_indices,
   author       = {Barbora Čurdová},
   title        = {Graph Theoretical Descriptors For Chemical Property Predictions},
@@ -48,4 +48,4 @@ If you use this code or data, please cite the following work:
   language     = {english},
   supervisor   = {Wim Dehaen, M.Sc., Ph.D.}
 }
-`
+```
